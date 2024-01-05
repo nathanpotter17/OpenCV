@@ -37,6 +37,3 @@ while(cap.isOpened()):
 cap.release()
 
 cv2.destroyAllWindows()
-
-
-# 7:11:20 resume lecture
